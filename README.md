@@ -7,4 +7,4 @@ Files with "Rewrite" in title are rewrites of my initial solution to a prompt wi
 
 prompts: https://adventofcode.com/2020/ | about: https://adventofcode.com/2020/about
 
-Excited to see what the new year brings and seeing if I can get the fabled 10/25 for AoC 2021~ Merry almost new year to any readers!
+Merry almost new year to any readers!
